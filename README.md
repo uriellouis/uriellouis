@@ -8,8 +8,8 @@ Olá! Eu sou o João Cesar
 
 <div align="center">
   <a href="https://github.com/uriellouis">
-  <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=uriellouis&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="50%" height="180x" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uriellouis&layout=compact&langs_count=7&theme=dark"/>
+  <img width="45%" height="180px" src="https://github-readme-stats.vercel.app/api?username=uriellouis&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="54%" height="180x" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uriellouis&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
