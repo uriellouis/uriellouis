@@ -1,9 +1,9 @@
 <div align="center">
 Olá! Eu sou o João Cesar
 
- 🏫 Atualmente trabalhando com Suporte Técnino e Infraestrutura de Computadores e Redes.
- 👨🏻‍💻 Estudando Desenvolvimento Web (HTML, CSS, JavaScript).
- 👨🏻‍💻 Estudando também Administração e Gerenciamento de Redes.
+ <p>🏫 Atualmente trabalhando com Suporte Técnino e Infraestrutura de Computadores e Redes.</p>
+ <p>👨🏻‍💻 Estudando Desenvolvimento Web (HTML, CSS, JavaScript).</p>
+ <p>👨🏻‍💻 Estudando também Administração e Gerenciamento de Redes.</p>
 </div>
 
 <div align="center">
