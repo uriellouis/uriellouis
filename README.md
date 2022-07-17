@@ -2,7 +2,7 @@
 
 - 🏫 Atualmente trabalhando com Suporte Técnino e Infraestrutura de Computadores e Redes.
 - 👨🏻‍💻 Estudando Desenvolvimento Web (HTML, CSS, JavaScript).
-- 🧑🏻‍💻 Estudando também Administração e Gerenciamento de Redes.
+- 👨🏻‍💻 Estudando também Administração e Gerenciamento de Redes.
 
 
 <div align="center">
