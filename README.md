@@ -26,7 +26,7 @@ Olá! Eu sou o João Cesar
   <a href="https://instagram.com/csr.ribeiro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  </div>
  
- 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/csr.ribeiro) 
 
   ![Snake animation](https://github.com/uriellouis/uriellouis/blob/output/github-contribution-grid-snake.svg)
   
