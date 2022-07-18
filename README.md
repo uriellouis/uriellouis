@@ -1,9 +1,11 @@
-<div align="center">
-Olá! Eu sou o João Cesar
+##
 
- <p>🏫 Atualmente trabalhando com Suporte Técnino e Infraestrutura de Computadores e Redes.</p>
- <p>👨🏻‍💻 Estudando Desenvolvimento Web (HTML, CSS, JavaScript).</p>
- <p>👨🏻‍💻 Estudando também Administração e Gerenciamento de Redes.</p>
+<div align="center">
+  Olá! Eu sou o João Cesar
+
+  <p>🏫 Atualmente trabalhando com Suporte Técnino e Infraestrutura de Computadores e Redes.</p>
+  <p>👨🏻‍💻 Estudando Desenvolvimento Web (HTML, CSS, JavaScript).</p>
+  <p>👨🏻‍💻 Estudando também Administração e Gerenciamento de Redes.</p>
 </div>
 
 <div align="center" style="display: inline_block"><br>  
@@ -18,14 +20,17 @@ Olá! Eu sou o João Cesar
   
 <div>
   <a href="https://instagram.com/csr.ribeiro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
- 
-  ![Snake animation](https://github.com/uriellouis/uriellouis/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-  
+  <a href="https://instagram.com/csr.ribeiro" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-csr.ribeiro-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+</div> 
+
+  ##
+
 <div align="center">
   <a href="https://github.com/uriellouis">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=uriellouis&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uriellouis&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
+![Snake animation](https://github.com/uriellouis/uriellouis/blob/output/github-contribution-grid-snake.svg) 
