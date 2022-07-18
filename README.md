@@ -19,10 +19,8 @@
   ##
   
 <div>
-  <a href="https://instagram.com/csr.ribeiro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/csr.ribeiro" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-csr.ribeiro-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
+  <img align="center" src="https://img.shields.io/badge/-csr.ribeiro-05122A?style=flat&logo=instagram" alt="instagram"/></a>
 </div> 
 
   ##
