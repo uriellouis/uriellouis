@@ -6,12 +6,6 @@ Olá! Eu sou o João Cesar
  <p>👨🏻‍💻 Estudando também Administração e Gerenciamento de Redes.</p>
 </div>
 
-<div align="center">
-  <a href="https://github.com/uriellouis">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=uriellouis&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uriellouis&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
 <div align="center" style="display: inline_block"><br>  
   <img align="center" alt="putty" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" />          
   <img align="center" alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg">
@@ -30,3 +24,8 @@ Olá! Eu sou o João Cesar
   
 </div>
   
+<div align="center">
+  <a href="https://github.com/uriellouis">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=uriellouis&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uriellouis&layout=compact&langs_count=7&theme=dark"/>
+</div>
