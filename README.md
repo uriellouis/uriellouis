@@ -1,17 +1,13 @@
- ##
+### <h1>Olá! Eu sou o <i>João Cesar</i></h1>
 
-<div align="center">
- <h1>Olá! Eu sou o <i>João Cesar</i><div/>
-</div>
+<h2>🏫 ⚙️ Atualmente trabalhando como:</h2> 
+<i>- Analista de Suporte Técnico de Computadores:<br/></i>
+  Prestando serviços com atendimento, instalações e atualizações de softwares, computadores, telefones, impressoras, fornecendo assistência e garantindo o               funcionamento de ferramentas, equipamentos e sistemas de tecnologia. 
+ 
+ <br/>
 
- ##
-
-<div>
- <p>🏫 Atualmente trabalhando:</p>
- <ul align="center">
-  <li>Suporte Técnino de Computadores</li>
-  <li>Infraestrutura de Computadores e Redes.</li>
- <ul>
+- Analista de Suporte Técnico de Computadores;<br/>
+- Analista de Infraestrutura de Computadores e Redes;
   <p>👨🏻‍💻 Estudando Desenvolvimento Web (HTML, CSS, JavaScript).</p>
   <p>👨🏻‍💻 Estudando também Administração e Gerenciamento de Redes.</p>
 </div>
